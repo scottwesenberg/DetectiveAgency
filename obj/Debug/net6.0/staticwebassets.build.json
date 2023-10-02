@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mGzTCdBvYWrfXiG8OqcqeVcHydnvV+lND9AMsDT6Yqs=",
+  "Hash": "BH45h9VpZVzDtwjNUfvN+rWM8YceFYDRGL+hLYKnMc8=",
   "Source": "DetectiveAgency",
   "BasePath": "_content/DetectiveAgency",
   "Mode": "Default",
@@ -1171,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\footprints.png"
+    },
+    {
+      "Identity": "C:\\Users\\wesen\\OneDrive\\NMC - SCHOOLING\\NMC_CLASSES\\CIT218WebAppDev\\week3\\DetectiveAgency-master\\wwwroot\\Images\\scooby-and-scrappy.jpg",
+      "SourceId": "DetectiveAgency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wesen\\OneDrive\\NMC - SCHOOLING\\NMC_CLASSES\\CIT218WebAppDev\\week3\\DetectiveAgency-master\\wwwroot\\",
+      "BasePath": "_content/DetectiveAgency",
+      "RelativePath": "Images/scooby-and-scrappy.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\scooby-and-scrappy.jpg"
     },
     {
       "Identity": "C:\\Users\\wesen\\OneDrive\\NMC - SCHOOLING\\NMC_CLASSES\\CIT218WebAppDev\\week3\\DetectiveAgency-master\\wwwroot\\Images\\spying.jpg",

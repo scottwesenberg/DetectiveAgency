@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\Images\\footprints.png"
     },
     {
+      "Id": "C:\\Users\\wesen\\OneDrive\\NMC - SCHOOLING\\NMC_CLASSES\\CIT218WebAppDev\\week3\\DetectiveAgency-master\\wwwroot\\Images\\scooby-and-scrappy.jpg",
+      "PackagePath": "staticwebassets\\Images\\scooby-and-scrappy.jpg"
+    },
+    {
       "Id": "C:\\Users\\wesen\\OneDrive\\NMC - SCHOOLING\\NMC_CLASSES\\CIT218WebAppDev\\week3\\DetectiveAgency-master\\wwwroot\\Images\\spying.jpg",
       "PackagePath": "staticwebassets\\Images\\spying.jpg"
     },
